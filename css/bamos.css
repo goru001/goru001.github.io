@@ -72,3 +72,15 @@ img {
         margin-right: auto;
     }
 }
+
+.project-anchor {
+    color: #333333;
+}
+
+.project-anchor:hover {
+    color: #333333;
+}
+
+.project-heading {
+    font-size: 18px;
+}
