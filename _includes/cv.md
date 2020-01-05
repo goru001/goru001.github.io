@@ -96,7 +96,7 @@
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:6513084638955696128">by</a> 
       <a href="https://www.linkedin.com/notifications/ca/post-analytics/urn:li:activity:6611307159634444290/reshares/">community</a> 
       on LinkedIn <br>
-    • iNLTK has <a href="https://console.cloud.google.com/bigquery?sq=375816891401:185fda81bdc64eb79b98c6b28c77a62a">22,000+ Downloads</a> on PyPi <br>
+    • iNLTK has <a href="https://console.cloud.google.com/bigquery?sq=375816891401:185fda81bdc64eb79b98c6b28c77a62a">23,000+ Downloads</a> on PyPi <br>
     • Data Augmentation post about iNLTK was <a href="https://www.linkedin.com/posts/gaurav-arora-23593220_deeplearning-nlp-articialintelligence-activity-6611307159634444290-LEYv"> trending on LinkedIn </a> <br>
     • iNLTK was <a href="https://github.motakasoft.com/trending/ranking/monthly/?d=2019-05-01&l=python&page=2">trending on GitHub</a> in May, 2019 <br>
     • Shared on <a href="https://www.reddit.com/r/IndiaSpeaks/comments/b6w2tf/for_people_working_inenthusiasts_of_natural/">Reddit</a>,
@@ -133,10 +133,10 @@
     <a class="github-button" href="https://github.com/goru001/nlp-for-hindi/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-hindi on GitHub">Fork</a>
     <a class="github-button" href="https://github.com/goru001/nlp-for-hindi/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-hindi on GitHub">Watch</a>
     <br><br>
-    • SOTA Language model, Classifier and Tokenizer for Hindi language<br>
-    • <a href="https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/goru001/nlp-for-hindi/master/language-model/embedding_projector_config_30k.json">Word Embeddings</a> projection <br>
-    • <a href="https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/goru001/nlp-for-hindi/master/language-model/sentence_encodings/encoding_projector_config.json">Sentence Encodings</a> projection <br>
-
+    • Contains SOTA Language models and Classifier for Hindi <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-hindi#pretrained-models">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-hindi"> Code </a>] [<a href="https://github.com/goru001/nlp-for-hindi#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-hindi#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-hindi#visualizations"> Embeddings projection </a>]
 </td>
 </tr>
 
@@ -149,9 +149,122 @@
     <a class="github-button" href="https://github.com/goru001/nlp-for-sanskrit/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-sanskrit on GitHub">Fork</a>
     <a class="github-button" href="https://github.com/goru001/nlp-for-sanskrit/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-sanskrit on GitHub">Watch</a>
     <br><br>
-    • First Ever, SOTA Language model, Classifier and Tokenizer for Sanskrit language<br>
-    • <a href="https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/goru001/nlp-for-sanskrit/master/language-model/embedding_projector_config.json">Word Embeddings</a> projection <br>
+    • Contains SOTA Language models and Classifier for Sanskrit <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-sanskrit#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-sanskrit"> Code </a>] [<a href="https://github.com/goru001/nlp-for-sanskrit#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-sanskrit#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-sanskrit#visualizations"> Embeddings projection </a>]
+</td>
+</tr>
 
+
+<tr>
+<td class="col-md-5"><a href='https://github.com/goru001/nlp-for-nepali' target='_blank'><img src="images/open_source_contributions/nlp_for_nepali.gif"/></a> </td>
+<td>
+    <a class="project-anchor" href="https://github.com/goru001/nlp-for-nepali"><h4 class="project-heading">NLP for Nepali</h4></a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-nepali" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star goru001/nlp-for-nepali on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-nepali/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-nepali on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-nepali/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-nepali on GitHub">Watch</a>
+    <br><br>
+    • Contains SOTA Language models and Classifier for Nepali <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-nepali#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-nepali"> Code </a>] [<a href="https://github.com/goru001/nlp-for-nepali#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-nepali#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-nepali#visualizations"> Embeddings projection </a>]
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-5"><a href='https://github.com/goru001/nlp-for-tamil' target='_blank'><img src="images/open_source_contributions/nlp_for_tamil.gif"/></a> </td>
+<td>
+    <a class="project-anchor" href="https://github.com/goru001/nlp-for-tamil"><h4 class="project-heading">NLP for Tamil</h4></a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-tamil" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star goru001/nlp-for-tamil on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-tamil/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-tamil on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-tamil/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-tamil on GitHub">Watch</a>
+    <br><br>
+    • Contains SOTA Language models and Classifier for Tamil <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-tamil#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-tamil"> Code </a>] [<a href="https://github.com/goru001/nlp-for-tamil#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-tamil#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-tamil#visualizations"> Embeddings projection </a>]
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-5"><a href='https://github.com/goru001/nlp-for-bengali' target='_blank'><img src="images/open_source_contributions/nlp_for_bengali.gif"/></a> </td>
+<td>
+    <a class="project-anchor" href="https://github.com/goru001/nlp-for-bengali"><h4 class="project-heading">NLP for Bengali</h4></a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-bengali" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star goru001/nlp-for-bengali on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-bengali/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-bengali on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-bengali/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-bengali on GitHub">Watch</a>
+    <br><br>
+    • Contains SOTA Language models and Classifier for Bengali <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-bengali#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-bengali"> Code </a>] [<a href="https://github.com/goru001/nlp-for-bengali#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-bengali#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-bengali#visualizations"> Embeddings projection </a>]
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-5"><a href='https://github.com/goru001/nlp-for-punjabi' target='_blank'><img src="images/open_source_contributions/nlp_for_punjabi.gif"/></a> </td>
+<td>
+    <a class="project-anchor" href="https://github.com/goru001/nlp-for-punjabi"><h4 class="project-heading">NLP for Punjabi</h4></a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-punjabi" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star goru001/nlp-for-punjabi on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-punjabi/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-punjabi on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-punjabi/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-punjabi on GitHub">Watch</a>
+    <br><br>
+    • Contains SOTA Language models and Classifier for Punjabi <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-punjabi#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-punjabi"> Code </a>] [<a href="https://github.com/goru001/nlp-for-punjabi#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-punjabi#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-punjabi#visualizations"> Embeddings projection </a>]
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-5"><a href='https://github.com/goru001/nlp-for-malyalam' target='_blank'><img src="images/open_source_contributions/nlp_for_malayalam.gif"/></a> </td>
+<td>
+    <a class="project-anchor" href="https://github.com/goru001/nlp-for-malyalam"><h4 class="project-heading">NLP for Malayalam</h4></a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-malyalam" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star goru001/nlp-for-malyalam on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-malyalam/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-malyalam on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-malyalam/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-malyalam on GitHub">Watch</a>
+    <br><br>
+    • Contains SOTA Language models and Classifier for Malayalam <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-malyalam#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-malyalam"> Code </a>] [<a href="https://github.com/goru001/nlp-for-malyalam#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-malyalam#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-malyalam#visualizations"> Embeddings projection </a>]
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-5"><a href='https://github.com/goru001/nlp-for-odia' target='_blank'><img src="images/open_source_contributions/nlp_for_odia.gif"/></a> </td>
+<td>
+    <a class="project-anchor" href="https://github.com/goru001/nlp-for-odia"><h4 class="project-heading">NLP for Odia</h4></a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-odia" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star goru001/nlp-for-odia on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-odia/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-odia on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-odia/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-odia on GitHub">Watch</a>
+    <br><br>
+    • Contains SOTA Language models and Classifier for Odia <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-odia#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-odia"> Code </a>] [<a href="https://github.com/goru001/nlp-for-odia#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-odia#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-odia#visualizations"> Embeddings projection </a>]
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-5"><a href='https://github.com/goru001/nlp-for-gujarati' target='_blank'><img src="images/open_source_contributions/nlp_for_gujarati.gif"/></a> </td>
+<td>
+    <a class="project-anchor" href="https://github.com/goru001/nlp-for-gujarati"><h4 class="project-heading">NLP for Gujarati</h4></a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-gujarati" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star goru001/nlp-for-gujarati on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-gujarati/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goru001/nlp-for-gujarati on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/goru001/nlp-for-gujarati/subscription" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-eye" data-show-count="true" aria-label="Watch goru001/nlp-for-gujarati on GitHub">Watch</a>
+    <br><br>
+    • Contains SOTA Language models and Classifier for Gujarati <br>
+    • Pretrained Models available for <a href="https://github.com/goru001/nlp-for-gujarati#pretrained-language-model">download</a>: TransformerXL, ULMFiT <br>
+    <br><br><br><br>
+    [<a href="https://github.com/goru001/nlp-for-gujarati"> Code </a>] [<a href="https://github.com/goru001/nlp-for-gujarati#results"> Results </a>] [<a href="https://github.com/goru001/nlp-for-gujarati#dataset"> Dataset </a>] [<a href="https://github.com/goru001/nlp-for-gujarati#visualizations"> Embeddings projection </a>]
 </td>
 </tr>
 </table>
