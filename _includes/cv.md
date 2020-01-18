@@ -272,17 +272,18 @@
 
 ## <i class="fa fa-chevron-right"></i> Honors & Awards
 <table class="table table-hover">
-<tr>
-  <td class='col-md-2'>Dec 2018</td>
-  <td>
-    <strong>Top-17% rank</strong> in Human Protein Atlas Image Classification, Kaggle for developing <a href="https://github.com/goru001/human-protein-atlas-kaggle-competition">Deep Learning model</a> which classified mixed patterns of proteins in microscope images. The competition had 2172 teams, but I participated individually and hence had 100% contribution in the 366th placed solution
-  </td>
-</tr>
 
 <tr>
   <td class='col-md-2'>Mar 2019</td>
   <td>
     <strong>Fast.ai International Fellow</strong> for <a href="https://forums.fast.ai/u/disisbig/summary">contributions to Fast.ai forums</a>
+  </td>
+</tr>
+
+<tr>
+  <td class='col-md-2'>Dec 2018</td>
+  <td>
+    <strong>Top-17% rank</strong> in Human Protein Atlas Image Classification, Kaggle for developing <a href="https://github.com/goru001/human-protein-atlas-kaggle-competition">Deep Learning model</a> which classified mixed patterns of proteins in microscope images. The competition had 2172 teams, but I participated individually and hence had 100% contribution in the 366th placed solution
   </td>
 </tr>
 
