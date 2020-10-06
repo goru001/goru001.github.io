@@ -1,6 +1,8 @@
  I am a Machine Learning Engineer at <b>Haptik</b> working on fundamental Conversational-AI problems using <b>Deep Learning</b>. I have built the Intent Detection System for Haptik's NLU Engine, which is <b>25% more accurate</b> than their previous system, owning it from Research to Production.
   
- I am also the creator of open source [iNLTK library](https://github.com/goru001/inltk) which provides out of the box support for various NLP tasks, for low resource 12 Indic Languages. The library has <b>20,000+ downloads and 400+ stars</b> on GitHub.
+ I have authored research papers which have been accepted at top tier venues like <b>EMNLP NLP-OSS</b> workshop, <b>EMNLP Insights</b> workshop and <b>FIRE</b>.
+ 
+ I am also the creator of open source [iNLTK library](https://github.com/goru001/inltk) which provides out of the box support for various NLP tasks, for low resource 13 Indic Languages. The library has <b>40,000+ downloads, 600+ stars and 100+ forks</b> on GitHub.
  
  Previously, I have worked at <b>Goldman Sachs</b> with the User Experience and Productivity team on Analytics for Desktop Assistant, which is firm-wide used productivity tool.
  
@@ -8,6 +10,41 @@
   
  I am interested in the applications of Machine Learning to solve problems which will impact millions and keep making my little [open source contributions](https://github.com/goru001) towards it. <br><br>
 
+
+## <i class="fa fa-chevron-right"></i> Selected Publications
+
+<table class="table table-hover">
+  <tr>
+    <td class="col-md-3">Accepted at <b>EMNLP-2020’S NLP-OSS</b> workshop</td>
+    <td>
+        <strong>iNLTK: Natural Language Toolkit for Indic Languages</strong>
+        <br>
+        <small><b>Gaurav Arora</b></small>
+        <br>
+      [<a href="https://arxiv.org/abs/2009.12534">Arxiv</a>] [<a href="https://github.com/goru001/inltk">GitHub</a>]
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Accepted at <b>EMNLP-2020’S Insights</b> workshop</td>
+    <td>
+        <strong>HINT3: Raising the bar for Intent Detection in the Wild</strong>
+        <br>
+        <small><b>Gaurav Arora</b>, Chirag Jain, Manas Chaturvedi, Krupal Modi</small>
+        <br>
+      [<a href="https://arxiv.org/abs/2009.13833">Arxiv</a>] [<a href="https://github.com/hellohaptik/HINT3">GitHub</a>]
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Accepted at <b>Dravidian Codemix HASOC @ FIRE-2020</b></td>
+    <td>
+        <strong>Pre-training ULMFiT on Synthetically Generated Code-Mixed Data for Hate Speech Detection</strong>
+        <br>
+        <small><b>Gaurav Arora</b></small>
+        <br>
+      [<a href="https://arxiv.org/abs/2010.02094">Arxiv</a>] [<a href="https://github.com/goru001/nlp-for-tanglish">GitHub</a>]
+    </td>
+  </tr>
+</table>
 
 ## <i class="fa fa-chevron-right"></i> Education
 
@@ -84,9 +121,9 @@
      <a href="https://inltk.readthedocs.io/en/latest/api_docs.html#get-sentence-encoding">Sentence Encoding</a>,
      <a href="https://inltk.readthedocs.io/en/latest/api_docs.html#get-embedding-vectors">Word Embedding</a>,
      <a href="https://inltk.readthedocs.io/en/latest/api_docs.html#tokenize">Tokenization</a> and
-     <a href="https://inltk.readthedocs.io/en/latest/api_docs.html#predict-next-n-words">Text Generation</a> utilities for low resource 12 Indic Languages <br>
+     <a href="https://inltk.readthedocs.io/en/latest/api_docs.html#predict-next-n-words">Text Generation</a> utilities for low resource 13 Indic Languages <br>
     • The library is backed by ULMFiT Language Models which I had trained using Fastai and Pytorch libraries, producing SOTA LM
-    perplexity and Classification accuracy in 12 Indic Languages <br> <br>
+    perplexity and Classification accuracy in 13 Indic Languages <br> <br>
     <strong>Appreciation for iNLTK</strong> <br>
     • By <a href="https://twitter.com/jeremyphoward/status/1111318198891110402">Jeremy Howard</a>,
          <a href="https://twitter.com/seb_ruder/status/1207074241830674438">Sebastian Ruder</a> on Twitter <br>
@@ -389,7 +426,7 @@ C, C++, Python, Javascript, TypeScript, EcmaScript6, AngularJS, ReactJS, Angular
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
-Pytorch, Pandas, Numpy, ScikitLearn, SciPy, Fastai
+Pytorch, Pandas, Numpy, ScikitLearn, SciPy, Fastai, Transformers library
   </td>
 </tr>
 </table>
