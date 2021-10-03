@@ -1,10 +1,13 @@
- I am a Machine Learning Engineer at <b>Haptik</b> working on fundamental Conversational-AI problems using <b>Deep Learning</b>. I have built the Intent Detection System for Haptik's NLU Engine, which is <b>25% more accurate</b> than their previous system, owning it from Research to Production.
+I'm working as an Applied Research Scientist at <b>Amazon</b> with <b>India Machine Learning</b> team. 
+
+
+Previously, I have worked as a Machine Learning Engineer at <b>Jio Haptik</b> on fundamental Conversational-AI problems using <b>Deep Learning</b>. I built the Intent Detection System for Haptik's NLU Engine, which was <b>25% more accurate</b> than their previous system, owning it from Research to Production.
   
- I have authored research papers which have been accepted at top tier venues like <b>EMNLP NLP-OSS</b> workshop, <b>EMNLP Insights</b> workshop and <b>FIRE</b>.
+ I have authored research papers which have been accepted at top tier venues like <b>EMNLP NLP-OSS</b> workshop, <b>EMNLP Insights</b> workshop, <b>EACL LT-EDI</b> workshop and <b>FIRE</b>.
  
- I am also the creator of open source [iNLTK library](https://github.com/goru001/inltk) which provides out of the box support for various NLP tasks, for low resource 13 Indic Languages. The library has <b>40,000+ downloads, 600+ stars and 100+ forks</b> on GitHub.
+ I am also the creator of open source [iNLTK library](https://github.com/goru001/inltk) which provides out of the box support for various NLP tasks, for low resource 13 Indic Languages. The library has <b>70,000+ downloads, 700+ stars and 100+ forks</b> on GitHub.
  
- Previously, I have worked at <b>Goldman Sachs</b> with the User Experience and Productivity team on Analytics for Desktop Assistant, which is firm-wide used productivity tool.
+ Prior to Jio Haptik, I worked at <b>Goldman Sachs</b> with the User Experience and Productivity team on Analytics for Desktop Assistant, which is firm-wide used productivity tool.
  
  I have Advanced Certification in AI and ML from <b>International Institute of Information Technology (IIIT-Hyderabad)</b> and Bachelor's in Computer Science from <b>PEC University of Technology.</b>
   
@@ -12,6 +15,9 @@
 
 
 ## <i class="fa fa-chevron-right"></i> Selected Publications
+
+
+## <a href="https://scholar.google.com/citations?user=uAgoyQsAAAAJ" class="btn btn-primary" style="padding: 0.3em;"> <i class="ai ai-google-scholar"></i> Google Scholar</a>
 
 <table class="table table-hover">
   <tr>
@@ -21,7 +27,7 @@
         <br>
         <small><b>Gaurav Arora</b></small>
         <br>
-      [<a href="https://arxiv.org/abs/2009.12534">Arxiv</a>] [<a href="https://github.com/goru001/inltk">GitHub</a>]
+      [<a href="https://aclanthology.org/2020.nlposs-1.10/">Paper</a>] [<a href="https://github.com/goru001/inltk">GitHub</a>]
     </td>
   </tr>
   <tr>
@@ -31,7 +37,7 @@
         <br>
         <small><b>Gaurav Arora</b>, Chirag Jain, Manas Chaturvedi, Krupal Modi</small>
         <br>
-      [<a href="https://arxiv.org/abs/2009.13833">Arxiv</a>] [<a href="https://github.com/hellohaptik/HINT3">GitHub</a>]
+      [<a href="https://aclanthology.org/2020.insights-1.16/">Paper</a>] [<a href="https://github.com/hellohaptik/HINT3">GitHub</a>]
     </td>
   </tr>
   <tr>
@@ -41,7 +47,17 @@
         <br>
         <small><b>Gaurav Arora</b></small>
         <br>
-      [<a href="https://arxiv.org/abs/2010.02094">Arxiv</a>] [<a href="https://github.com/goru001/nlp-for-tanglish">GitHub</a>]
+      [<a href="https://arxiv.org/abs/2010.02094">Paper</a>] [<a href="https://github.com/goru001/nlp-for-tanglish">GitHub</a>]
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Accepted at <b>LT-EDI @ EACL-2021</b></td>
+    <td>
+        <strong>Spartans@ LT-EDI-EACL2021: Inclusive Speech Detection using Pretrained Language Models</strong>
+        <br>
+        <small><b>Gaurav Arora*</b>, Megha Sharma*</small>
+        <br>
+      [<a href="https://aclanthology.org/2021.ltedi-1.28/">Paper</a>] [<a href="https://github.com/goru001/nlp-for-tanglish">GitHub</a>]
     </td>
   </tr>
 </table>
@@ -77,8 +93,14 @@
 ## <i class="fa fa-chevron-right"></i> Industry Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>July 2019 - Present</td>
-  <td><strong>Haptik</strong>, Machine Learning Engineer</td>
+  <td class='col-md-3'>Apr 2021 - Present</td>
+  <td><strong>Amazon</strong>, Applied Scientist</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>July 2019 - Apr 2021</td>
+  <td><strong>Jio Haptik</strong>, Machine Learning Engineer</td>
 </tr>
 <tr>
 </tr>
@@ -309,6 +331,12 @@
 
 ## <i class="fa fa-chevron-right"></i> Honors & Awards
 <table class="table table-hover">
+<tr>
+  <td class='col-md-2'>Mar 2021</td>
+  <td>
+    <strong>Indian Achievers Award 2020</strong> from Indian Achiever’s Forum (IAF) in the Young Achievers Category <a href="https://www.iafindia.com/mr-gaurav-arora/">for contribution in nation building through iNLTK</a>
+  </td>
+</tr>
 
 <tr>
   <td class='col-md-2'>Mar 2019</td>
