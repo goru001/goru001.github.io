@@ -155,7 +155,7 @@ Previously, I have worked as a Machine Learning Engineer at <b>Jio Haptik</b> on
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:6513084638955696128">by</a> 
       <a href="https://www.linkedin.com/notifications/ca/post-analytics/urn:li:activity:6611307159634444290/reshares/">community</a> 
       on LinkedIn <br>
-    • iNLTK has <a href="https://console.cloud.google.com/bigquery?sq=375816891401:185fda81bdc64eb79b98c6b28c77a62a">23,000+ Downloads</a> on PyPi <br>
+    • iNLTK has <a href="https://console.cloud.google.com/bigquery?sq=375816891401:185fda81bdc64eb79b98c6b28c77a62a">70,000+ Downloads</a> on PyPi <br>
     • Data Augmentation post about iNLTK was <a href="https://www.linkedin.com/posts/gaurav-arora-23593220_deeplearning-nlp-articialintelligence-activity-6611307159634444290-LEYv"> trending on LinkedIn </a> <br>
     • iNLTK was <a href="https://github.motakasoft.com/trending/ranking/monthly/?d=2019-05-01&l=python&page=2">trending on GitHub</a> in May, 2019 <br>
     • Shared on <a href="https://www.reddit.com/r/IndiaSpeaks/comments/b6w2tf/for_people_working_inenthusiasts_of_natural/">Reddit</a>,
