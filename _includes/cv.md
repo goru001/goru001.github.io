@@ -1,15 +1,14 @@
-I'm working as an Applied Research Scientist at <b>Amazon</b> with <b>India Machine Learning</b> team. 
+I'm working as an Applied Scientist-2 at <b>Amazon</b> with <b>International Machine Learning</b> team. I'm building (and improving) multiple NLU components for Conversational Shopping Assistant at Amazon.
 
-
-Previously, I have worked as a Machine Learning Engineer at <b>Jio Haptik</b> on fundamental Conversational-AI problems using <b>Deep Learning</b>. I built the Intent Detection System for Haptik's NLU Engine, which was <b>25% more accurate</b> than their previous system, owning it from Research to Production.
+Previously, I have worked as a Machine Learning Scientist at <b>Jio Haptik</b> on fundamental Conversational-AI problems. I built the Intent Detection System for Haptik's NLU Engine, which was <b>25% more accurate</b> than their previous system, owning it from Research to Production.
   
- I have authored research papers which have been accepted at top tier venues like <b>EMNLP NLP-OSS</b> workshop, <b>EMNLP Insights</b> workshop, <b>EACL LT-EDI</b> workshop and <b>FIRE</b>.
+ I have authored research papers which have been accepted at top tier venues like <b>ACL Findings</b>, <b>EMNLP NLP-OSS</b> workshop, <b>EMNLP Insights</b> workshop, <b>EACL LT-EDI</b> workshop and <b>FIRE</b>.
  
- I am also the creator of open source [iNLTK library](https://github.com/goru001/inltk) which provides out of the box support for various NLP tasks, for low resource 13 Indic Languages. The library has <b>70,000+ downloads, 700+ stars and 100+ forks</b> on GitHub.
+ I am also the creator of open source [iNLTK library](https://github.com/goru001/inltk) which provides out of the box support for various NLP tasks, for low resource 13 Indic Languages. The library has <b>100,000+ downloads, 700+ stars and 100+ forks</b> on GitHub.
  
  Prior to Jio Haptik, I worked at <b>Goldman Sachs</b> with the User Experience and Productivity team on Analytics for Desktop Assistant, which is firm-wide used productivity tool.
  
- I have Advanced Certification in AI and ML from <b>International Institute of Information Technology (IIIT-Hyderabad)</b> and Bachelor's in Computer Science from <b>PEC University of Technology.</b>
+ I have Masters in Computer Science with specialization in ML from [Georgia Tech](https://www.gatech.edu/) and Bachelor's in Computer Science from [PEC University of Technology](https://pec.ac.in/).
   
  I am interested in the applications of Machine Learning to solve problems which will impact millions and keep making my little [open source contributions](https://github.com/goru001) towards it. <br><br>
 
@@ -20,6 +19,16 @@ Previously, I have worked as a Machine Learning Engineer at <b>Jio Haptik</b> on
 ## <a href="https://scholar.google.com/citations?user=uAgoyQsAAAAJ" class="btn btn-primary" style="padding: 0.3em;"> <i class="ai ai-google-scholar"></i> Google Scholar</a>
 
 <table class="table table-hover">
+  <tr>
+    <td class="col-md-3">Accepted at <b>ACL 2023</b></td>
+    <td>
+        <strong>CoMix: Guide transformers to code-mix using POS structure and phonetics</strong>
+        <br>
+        <small><b>Gaurav Arora</b>, Srujana Merugu, Vivek Sembium</small>
+        <br>
+      [<a href="https://www.amazon.science/publications/comix-guide-transformers-to-code-mix-using-pos-structure-and-phonetics">Paper</a>]
+    </td>
+  </tr>
   <tr>
     <td class="col-md-3">Accepted at <b>EMNLP-2020’S NLP-OSS</b> workshop</td>
     <td>
@@ -66,11 +75,11 @@ Previously, I have worked as a Machine Learning Engineer at <b>Jio Haptik</b> on
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">2018 - 2019</td>
+    <td class="col-md-3">2020 - 2022</td>
     <td>
-        <strong>Advanced Certification in Artificial Intelligence and Machine Learning</strong>
+        <strong>Masters in Computer Science (specialization in ML)</strong>
         <br>
-      International Institute of Information Technology (IIIT-Hyderabad)
+      Georgia Institute of Technology (Georgia Tech)
     </td>
   </tr>
   <tr>
@@ -100,7 +109,7 @@ Previously, I have worked as a Machine Learning Engineer at <b>Jio Haptik</b> on
 </tr>
 <tr>
   <td class='col-md-3'>July 2019 - Apr 2021</td>
-  <td><strong>Jio Haptik</strong>, Machine Learning Engineer</td>
+  <td><strong>Jio Haptik</strong>, Machine Learning Scientist</td>
 </tr>
 <tr>
 </tr>
@@ -436,13 +445,13 @@ Previously, I have worked as a Machine Learning Engineer at <b>Jio Haptik</b> on
 <tr>
   <td class='col-md-2'>Mathematics</td>
   <td markdown="1">
-Discrete Structures for Computer Science, Vector Calculus, Fourier Series and Laplace Transform, Operation Research,Mathematics for Machine Learning: Linear Algebra and Multivariate Calculus (Coursera)
+Discrete Structures for Computer Science, Vector Calculus, Fourier Series and Laplace Transform, Operation Research, Bayesian Statistics
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Computer Science</td>
   <td markdown="1">
-Data Structures and Algorithms, Computer Architecture and Organization, OOP, Microprocessor, DBMS, OperatingSystems, Computer Networks, Theory of Computation, Artificial Intelligence, Computer Graphics, Mobile Computing, Fastai: Part 1 and Part 2, DeepLearning.ai by Andrew Ng, Deep Learning by Prof. Mitesh Khapra, IIT Madras
+Introduction to Graduate Algorithms, Data Structures and Algorithms, Computer Architecture and Organization, OOP, Microprocessor, DBMS, OperatingSystems, Computer Networks, Theory of Computation, Artificial Intelligence, Computer Graphics, Mobile Computing, Machine Learning, Reinforcement Learning, Deep Learning, Computer Vision, Big Data for Healthcare, Knowledge Based AI 
   </td>
 </tr>
 <tr>
