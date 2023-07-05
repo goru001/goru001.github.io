@@ -30,7 +30,7 @@ Previously, I have worked as a Machine Learning Scientist at <b>Jio Haptik</b> o
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Accepted at <b>EMNLP-2020’S NLP-OSS</b> workshop</td>
+    <td class="col-md-3">Accepted at <b>EMNLP-2020 NLP-OSS</b> workshop</td>
     <td>
         <strong>iNLTK: Natural Language Toolkit for Indic Languages</strong>
         <br>
@@ -40,7 +40,7 @@ Previously, I have worked as a Machine Learning Scientist at <b>Jio Haptik</b> o
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Accepted at <b>EMNLP-2020’S Insights</b> workshop</td>
+    <td class="col-md-3">Accepted at <b>EMNLP-2020 Insights</b> workshop</td>
     <td>
         <strong>HINT3: Raising the bar for Intent Detection in the Wild</strong>
         <br>
