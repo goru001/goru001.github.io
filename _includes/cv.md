@@ -1,4 +1,4 @@
-I'm working as an Applied Scientist-2 at <b>Amazon</b> with <b>International Machine Learning</b> team. I'm building (and improving) multiple NLU components for Conversational Shopping Assistant at Amazon.
+I'm working as an Applied Scientist-2 at <b>Amazon</b> with <b>International Machine Learning</b> team. I've helped in building and launching conversational shopping assistant for Amazon (India), both in the pre and post LLM era. I've built multiple NLU components (Intent, NER, Query Reformulation), Safeguard service, Next Question Suggestion service for the assistant. I've also worked on personalization and forecasting problems in my first ~8 months at Amazon.
 
 Previously, I have worked as a Machine Learning Scientist at <b>Jio Haptik</b> on fundamental Conversational-AI problems. I built the Intent Detection System for Haptik's NLU Engine, which was <b>25% more accurate</b> than their previous system, owning it from Research to Production.
   
