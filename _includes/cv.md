@@ -160,13 +160,13 @@ I am interested in the applications of Machine Learning to solve problems which 
 </tr>
 <tr>
   <td class='col-md-3'>June 2018 - July 2019</td>
-  <td><strong>Goldman Sachs</strong>, Technology Analyst</td>
+  <td><strong>Goldman Sachs</strong>, Software Development Engineer</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2017 - Oct 2017</td>
-  <td><strong>Goldman Sachs</strong>, Technology Analyst Intern</td>
+  <td class='col-md-3'>Jan 2017 - July 2017</td>
+  <td><strong>Goldman Sachs</strong>, Software Development Engineer (Intern)</td>
 </tr>
 <tr>
 </tr>
