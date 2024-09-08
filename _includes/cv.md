@@ -13,20 +13,65 @@ I have Masters in Computer Science with specialization in ML from [Georgia Tech]
 I am interested in the applications of Machine Learning to solve problems which will impact millions and keep making my little [open source contributions](https://github.com/goru001) towards it. <br><br>
 
 
-## <i class="fa fa-chevron-right"></i> Selected Publications
+## <i class="fa fa-chevron-right"></i> Publications
 
 
 ## <a href="https://scholar.google.com/citations?user=uAgoyQsAAAAJ" class="btn btn-primary" style="padding: 0.3em;"> <i class="ai ai-google-scholar"></i> Google Scholar</a>
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Accepted at <b>ACL 2023 (Findings)</b></td>
+    <td class="col-md-3">Accepted at <b>AMLC 2024 (Oral)</b>, Under Review @ EMNLP 2024</td>
+    <td>
+        <strong>Towards Abstractive Knowledge Representations in LLMs</strong>
+        <br>
+        <small><b>Gaurav Arora</b>, Shreya Jain, Vaibhav Saxena, Srujana Merugu</small>
+        <br>
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Under Review @ EMNLP 2024 (Industry Track)</td>
+    <td>
+        <strong>Intent Detection in the Age of LLMs</strong>
+        <br>
+        <small><b>Gaurav Arora</b>, Shreya Jain, Srujana Merugu</small>
+        <br>
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Accepted at <b>AMLC 2024 (Poster)</b></td>
+    <td>
+        <strong>MuST: A Multi Stage Targeting Framework for Promotional Campaigns</strong>
+        <br>
+        <small>Apoorva Singh, Prince Jain, <b>Gaurav Arora</b>, Vivek Sembium</small>
+        <br>
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Accepted at <b>ACL 2023 (Findings), AMLC 2022 (Oral)</b></td>
     <td>
         <strong>CoMix: Guide transformers to code-mix using POS structure and phonetics</strong>
         <br>
         <small><b>Gaurav Arora</b>, Srujana Merugu, Vivek Sembium</small>
         <br>
       [<a href="https://www.amazon.science/publications/comix-guide-transformers-to-code-mix-using-pos-structure-and-phonetics">Paper</a>]
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Accepted at <b>AMLC 2023 (Poster)</b></td>
+    <td>
+        <strong>Conversational Shopping Assistant: Bridging the gap between online and offline purchase experiences</strong>
+        <br>
+        <small><b>Gaurav Arora</b>, Pankaj Kumar, et al.</small>
+        <br>
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Accepted at <b>AMLC 2022 (Oral)</b></td>
+    <td>
+        <strong>DARE: Deep Affordability Recommendation Engine for ART events</strong>
+        <br>
+        <small>Prince Jain, <b>Gaurav Arora</b>, Mohammed Abdulla, Vivek Sembium</small>
+        <br>
     </td>
   </tr>
   <tr>
