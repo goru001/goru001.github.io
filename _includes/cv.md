@@ -20,16 +20,15 @@ I am interested in the applications of Machine Learning to solve problems which 
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Accepted at <b>AMLC 2024 (Oral)</b>, Under Review @ EMNLP 2024</td>
+    <td class="col-md-3">Accepted at <b>NAACL 2025 (Main), AMLC 2024 (Oral)</b></td>
     <td>
-        <strong>Towards Abstractive Knowledge Representations in LLMs</strong>
-        <br>
-        <small><b>Gaurav Arora</b>, Shreya Jain, Vaibhav Saxena, Srujana Merugu</small>
+        <strong>Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning</strong><br>
+        <small><b>Gaurav Arora</b>, Srujana Merugu, Shreya Jain, Vaibhav Saxena</small>
         <br>
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Under Review @ EMNLP 2024 (Industry Track)</td>
+    <td class="col-md-3">Accepted @ EMNLP 2024 (Industry Track)</td>
     <td>
         <strong>Intent Detection in the Age of LLMs</strong>
         <br>
