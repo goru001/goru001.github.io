@@ -2,7 +2,7 @@ I'm working as a Senior Applied Scientist at <b>Amazon</b> with <b>International
 
 Previously, I have worked as a Machine Learning Scientist at <b>Jio Haptik</b> on fundamental Conversational-AI problems. I built the Intent Detection System for Haptik's NLU Engine, which was 25% more accurate than their previous system, owning it from Research to Production.
   
-I have authored research papers which have been accepted at top tier venues like <b>NAACL (Main)</b>, <b>ACL (Findings)</b>, <b>EMNLP NLP-OSS</b> workshop, <b>EMNLP Insights</b> workshop, <b>EACL LT-EDI</b> workshop and <b>FIRE</b>. I've also published 5 papers (3 orals (<10% acceptance rate) and 2 posters (<30% acceptance rate)) at Amazon’s internal ML conference (AMLC). See [my resume](https://www.arggaurav.com/data/cv.pdf) for brief details on all external and internal papers.
+I have authored research papers which have been accepted at top tier venues like <b>NAACL (Main)</b>, <b>ACL (Findings)</b>, <b>EMNLP (Industry)</b>, <b>EMNLP NLP-OSS</b> workshop, <b>EMNLP Insights</b> workshop, <b>EACL LT-EDI</b> workshop and <b>FIRE</b>. I've also published 5 papers (3 orals (<10% acceptance rate) and 2 posters (<30% acceptance rate)) at Amazon’s internal ML conference (AMLC). See [my resume](https://www.arggaurav.com/data/cv.pdf) for brief details on all external and internal papers.
  
 I am also the creator of open source [iNLTK library](https://github.com/goru001/inltk) which provides out of the box support for various NLP tasks, for low resource 13 Indic Languages. The library has <b>175,000+ downloads, 800+ stars and 100+ forks</b> on GitHub.
  
